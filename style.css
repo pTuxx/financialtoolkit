@@ -1,0 +1,38 @@
+.header {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.inline {
+    display: inline;
+}
+
+.head {
+    float: right;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+.dbody {
+    padding-top: 10px;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.body {
+    padding-left: 15px;
+}
+
+.logo {
+    text-align: left;
+    font-size: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#div {
+    overflow: hidden;
+}
